@@ -43,7 +43,7 @@ public class PracticeTask1_CydeoVerification {
         }else{
             System.err.println("Title verification FAILED");
         }
-        driver.close();
+driver.close();
 
 
 
